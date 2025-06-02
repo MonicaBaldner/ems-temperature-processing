@@ -4,6 +4,7 @@ import io.hypersistence.tsid.TSID;
 import lombok.Builder;
 import lombok.Data;
 
+import java.io.Serializable;
 import java.time.OffsetDateTime;
 import java.util.UUID;
 
